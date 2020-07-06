@@ -1,0 +1,19 @@
+i.icon{
+    font-size: 2em;
+}
+i.chevron.icon{
+    font-size: 1em;
+}
+.container.main{
+    margin-top: 5em;
+}
+.blogpage{
+    margin-top: 5em;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+#delete{
+    display: inline;
+}
